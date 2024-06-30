@@ -4,9 +4,9 @@
 
 ## 个人信息
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：21
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：21 
 * 手 机：19862503536 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：ymislu@163.com
-* 专 业：软件工程 &emsp;&emsp;&emsp;&emsp;&emsp;;&ensp;;&ensp;;&ensp; 岗 位：golang开发
+* 专 业：软件工程 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：golang开发
 
 ## 教育经历
 
