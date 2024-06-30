@@ -6,7 +6,7 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：21
 * 手 机：19862503536 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：ymislu@163.com
-* 专 业：软件工程 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：golang开发
+* 专 业：软件工程 &emsp;&emsp;&emsp;&emsp;&emsp;;&ensp;;&ensp;;&ensp; 岗 位：golang开发
 
 ## 教育经历
 
@@ -22,7 +22,7 @@
 
 ## 项目经历
 
-1. Mim- im系统后端服务器 - 独立开发 [项目地址]()
+1. Mim- im系统后端服务器 - 独立开发 
     * 支持好友管理，群管理，消息漫游。支持单聊，群聊。支持发送媒体文件。
     * 使用gin作为web框架，实现接口层。
     * 使用websocket实现聊天长连接。
@@ -30,6 +30,7 @@
     * 使用rpcx作为各层通信框架，实现系统的解耦分层。
     * 使用rabbitMq实现业务层和通信层的消息投递。
     * 使用redis做状态缓存。
+    * 项目地址：https://github.com/MisluNotFound/mim
 
 2.  KOB- web贪吃蛇对战游戏 - 独立开发 [项目地址]()
     * 支持实时对战，查看回放。支持执行预设代码。
